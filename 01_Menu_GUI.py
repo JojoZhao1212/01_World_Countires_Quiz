@@ -2,7 +2,6 @@ from tkinter import *
 from functools import partial
 import random
 
-
 class menu:
     def __init__(self):
         #  Formatting variables
